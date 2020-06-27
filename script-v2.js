@@ -1,4 +1,4 @@
-// ?templatehints=magento
+// templatehints=magento
 let debuggingHints = document.getElementsByClassName("debugging-hints");
 
 let debugginHintsTmpltFiles = document.getElementsByClassName(

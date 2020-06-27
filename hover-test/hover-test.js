@@ -15,5 +15,3 @@ for (let i = 0; i < y.length; i++) {
         this.appendChild(redDiv);
     };
 }
-
-ssh - keygen - t rsa - b 4096 - C "squl2squl@hotmail.com"
