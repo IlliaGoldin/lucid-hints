@@ -1,0 +1,21 @@
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.sm-square {
+    height: 100px;
+    width: 100px;
+    margin: 2rem;
+}
